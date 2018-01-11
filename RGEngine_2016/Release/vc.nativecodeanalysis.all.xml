@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\nocha\documents\카카오톡 받은 파일\tendaze_5\dep\d3d\include\</FILEPATH>
+      <FILENAME>dinput.h</FILENAME>
+      <LINE>4321</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>'joyConfigChanged'에 대한 주석이 일치하지 않습니다. 이 인스턴스에는 주석 없음이(가) 있습니다. c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\joystickapi.h(454)을(를) 참조하십시오. </DESCRIPTION>
+    <FUNCTION>joyConfigChanged</FUNCTION>
+    <DECORATED>joyConfigChanged@4</DECORATED>
+    <FUNCLINE>4321</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\nocha\documents\카카오톡 받은 파일\tendaze_5\rgengine_2016\</FILEPATH>
+      <FILENAME>mainscene.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>'mousePos'의 지역 선언이 외부 범위에 있는 같은 이름의 선언을 숨깁니다. 자세한 내용은 줄 '43'('c:\users\nocha\documents\카카오톡 받은 파일\tendaze_5\rgengine_2016\mainscene.cpp')에 있는 이전 선언을 참조하십시오.</DESCRIPTION>
+    <FUNCTION>MainScene::OnUpdate</FUNCTION>
+    <DECORATED>?OnUpdate@MainScene@@UAEXXZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\nocha\documents\카카오톡 받은 파일\tendaze_5\rgengine_2016\</FILEPATH>
+        <FILENAME>mainscene.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,36 @@
+enum PlayerState
+{
+	SLEEP,
+	NORMAL_1,
+	NORMAL_2,
+	NORMAL_3,
+	TROPICANA,
+	TROEND,
+	BLUE_SCREEN
+};
+
+enum SpriteState
+{
+	NORMAL,
+	SELECTED
+};
+
+enum CaffeineType
+{
+	LES_COFFEE,
+	MAX_COFFEE,
+	MON_DRINK,
+	RED_DRINK,
+	SIX_DRINK
+};
+
+enum EndingType
+{
+	SLEEP_ENDING,
+	PC_ROOM_ENDING,
+	CHICKEN_ENDING,
+	
+	BLUE_SCREEN_ENDING,
+	TROPICANA_ENDING,
+	ADDICT_ENDING,
+};
